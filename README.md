@@ -311,4 +311,4 @@ gem tag --remote upstream
 gem release
 ```
 
-Copyright (c) 2020 Spree Commerce Inc., released under the New BSD License
+Copyright (c) 2020 Nebulab SRLs, released under the New BSD License
